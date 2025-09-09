@@ -63,6 +63,29 @@ npm start
 npm run dev
 ```
 ---
+
+## 📸 Screenshots  
+
+### 🏠 Login Page  
+![Login Page](assests/Login.png)  
+
+---
+
+### 🙍 Profile Page
+![Profile Page](assests/profile.png)  
+
+---
+
+### ⚙️ Settings page
+![Settings Page](assests/settings.png) 
+
+---
+
+### 💬 Chat Window  
+![Chat Window](assests/chat-ui.png)  
+
+---
+
 ## 🚀 Deployment
 
 - 🌐 Can be deployed on Render / Vercel / Netlify (client)
